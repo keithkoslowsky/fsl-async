@@ -1,0 +1,18 @@
+{
+    "name": "fsl-async",
+    "version": "1.0.0",
+    "description": "Designed to be a drop and replace for fs.writeFile and fs.mkdir. It supports recursive directory creation. It contains zero dependencies and uses Promises.",
+    "main": "lib/index.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+	"fsl-async",
+	"fs",
+	"fs.mkdir",
+	"fs.writeFile",
+	"async"
+    ],
+    "author": "Keith Koslowsky",
+    "license": "MIT"
+}
