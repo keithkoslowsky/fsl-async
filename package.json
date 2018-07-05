@@ -14,5 +14,13 @@
 	"async"
     ],
     "author": "Keith Koslowsky",
+    "homepage": "https://github.com/keithkoslowsky/fsl-async",
+    "repository" : {
+	"type" : "git",
+	"url" : "https://github.com/keithkoslowsky/fsl-async"
+    },
+    "bugs": {
+	"url" : "https://github.com/keithkoslowsky/fsl-async/issues"
+    },
     "license": "MIT"
 }
